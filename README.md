@@ -18,6 +18,8 @@
 <a href="https://www.docker.com/" target="_blank"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="40" width="40" alt="docker"/></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" height="40" width="60" alt="react-native"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1468993891584073729/a_op8KnL_400x400.jpg" height="40" width="40" alt="tailwind"/></a>
+<a href="https://mui.com/" target="_blank"><img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" height="40" width="40" alt="mui"/></a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrekha01&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Ankit" /></p>
