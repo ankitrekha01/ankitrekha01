@@ -28,5 +28,5 @@
 <a href="https://github-readme-stats.vercel.app/api?username=ankitrekha01&show_icons=true&theme=onedark&locale=en">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitrekha01&show_icons=true&theme=onedark&locale=en" alt="status" />
 </a> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrekha01&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Ankit" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitrekha01&show_icons=true&theme=onedark&locale=en" alt="Ankit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrekha01&show_icons=true&theme=one_dark_pro&locale=en&layout=compact" alt="Ankit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitrekha01&show_icons=true&theme=one_dark_pro&locale=en" alt="Ankit" /></p>
