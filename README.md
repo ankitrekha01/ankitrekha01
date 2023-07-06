@@ -2,7 +2,7 @@
 <h3 align="center">I am a Fourth Year Information Technology student</h3>
 
 - 🔭 I’m currently pursuing B.Tech in IT and MBA from ABV-IIITM, Gwalior.
-- 🌱 I’m currently tackling fresh problems in Data Structures and Algorithms.
+- 🌱 I’m currently exploring fresh problems in Data Structures and Algorithms.
 - 💬 Ask me about **Data Structure and Algorithm**, **React** and **Node**.
 - 📄 I'm currently on the lookout for exciting job opportunities. Here is my <a href="https://drive.google.com/file/d/17ih5rp5lwypxmuEfpfsTgscnlf4bgD8H/view" target="_blank"><b>Resume</b></a>.
 
