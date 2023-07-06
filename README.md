@@ -19,5 +19,5 @@
 <a href="https://reactnative.dev/" target="_blank"><img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" height="40" width="60" alt="react-native"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrekha01&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Ankit" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrekha01&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Ankit" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitrekha01&show_icons=true&theme=onedark&locale=en" alt="Ankit" /></p>
