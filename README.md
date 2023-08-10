@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ankit Kumar</h1>
-<h3 align="center">I am a Fourth Year Information Technology student</h3>
+<h3 align="center">I am a Final Year Information Technology student</h3>
 
 - 🔭 I’m currently pursuing B.Tech in IT and MBA from ABV-IIITM, Gwalior.
 - 🌱 I’m currently exploring fresh problems in Data Structures and Algorithms.
