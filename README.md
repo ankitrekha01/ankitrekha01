@@ -3,7 +3,7 @@
 
 - 🔭 I completed B.Tech in IT from ABV-IIITM, Gwalior.
 - 💬 Ask me about **Data Structure and Algorithm**, **Node**.
-- 📄 I'm currently on the lookout for exciting job opportunities. Here is my <a href="https://drive.google.com/file/d/17ih5rp5lwypxmuEfpfsTgscnlf4bgD8H/view" target="_blank"><b>Resume</b></a>.
+- 📄 Here is my <a href="https://drive.google.com/file/d/17ih5rp5lwypxmuEfpfsTgscnlf4bgD8H/view" target="_blank"><b>Resume</b></a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
