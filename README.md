@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ankit Kumar</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
-- 🔭 I completed B.Tech in IT from ABV-IIITM, Gwalior.
+- 🔭 I have completed B.Tech in IT from ABV-IIITM, Gwalior.
 - 💬 Ask me about **Data Structure and Algorithm**, **Node**.
 - 📄 Here is my <a href="https://drive.google.com/file/d/17ih5rp5lwypxmuEfpfsTgscnlf4bgD8H/view" target="_blank"><b>Resume</b></a>.
 
