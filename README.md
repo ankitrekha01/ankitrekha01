@@ -2,8 +2,8 @@
 <h3 align="center">I am a Software Engineer</h3>
 
 - 🔭 I have completed B.Tech in IT from IIIT, Gwalior.
-- 💬 Ask me about **Data Structure and Algorithm**, **Node**.
-- 📄 Here is my <a href="https://drive.google.com/file/d/17ih5rp5lwypxmuEfpfsTgscnlf4bgD8H/view" target="_blank"><b>Resume</b></a>.
+- 💬 Ask me about **Data Structure and Algorithm**, **LLM's**.
+- 📄 Here is my <a href="https://drive.google.com/file/d/1p0DIp48tbj3GYrAEbTlF750GO25Jrvur/view" target="_blank"><b>Resume</b></a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
